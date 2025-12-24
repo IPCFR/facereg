@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-video = cv2.VideoCapture("C:\\Users\\INSA\\Desktop\\asss.mp4")
+video = cv2.VideoCapture("C:XYZ")
 
 _, first_frame = video.read()
 x = 300
